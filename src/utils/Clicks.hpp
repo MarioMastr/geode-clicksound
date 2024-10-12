@@ -1,6 +1,7 @@
 #pragma once
-class Clicks {
+class Clicks
+{
 public:
-    static const char* getClickSprite(int);
-    static const char* getReleaseSprite(int);
+    static const char *getClickSprite(int);
+    static const char *getReleaseSprite(int);
 };

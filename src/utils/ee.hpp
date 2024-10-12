@@ -1,6 +1,7 @@
 #pragma once
 
-class Carrot {
+class Carrot
+{
 public:
     static bool carrot;
 };
